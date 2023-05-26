@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1023856234975",
+    "project_id": "jamapp-5206c",
+    "storage_bucket": "jamapp-5206c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023856234975:android:6fd14f1c23eb68878a746a",
+        "android_client_info": {
+          "package_name": "com.example.jam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1023856234975-0do5sb9hnm64trenjqdnoa9jqi6tmp38.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDplXzixElnqj5NY_PHLLIItDAFLEvbbc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1023856234975-0do5sb9hnm64trenjqdnoa9jqi6tmp38.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
